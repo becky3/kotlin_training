@@ -1,2 +1,2 @@
 # kotlin_training
-kotlin練習甩
+kotlin練習用
